@@ -1,4 +1,4 @@
-![logo] (https://github.com/gowdap/gowdap/blob/main/lin%20banner.png)
+![logo] ( https://github.com/gowdap/gowdap/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Shirigouda patil</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
