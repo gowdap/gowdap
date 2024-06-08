@@ -1,4 +1,4 @@
-
+![logo] (https://rerouting.ca/wp-content/uploads/2021/03/Simple-Technology-LinkedIn-Banner-8.png)
 
 <h1 align="center">Hi 👋, I'm Shirigouda patil</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
