@@ -1,7 +1,7 @@
 ![logo] ( https://github.com/gowdap/gowdap/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Shirigouda patil</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gowdap?tab=repositories](https://github.com/gowdap?tab=repositories)
 
-- 💬 Ask me about **Power bi,sql, Python**
+- 💬 Ask me about **Spark , Azure , Aws ,Power bi,sql, Python**
 
 - 📫 How to reach me **shrip929@gmail.com**
 
