@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowdap&label=Profile%20views&color=0e75b6&style=flat" alt="gowdap" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **new Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gowdap?tab=repositories](https://github.com/gowdap?tab=repositories)
 
