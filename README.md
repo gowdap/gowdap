@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gowdap?tab=repositories](https://github.com/gowdap?tab=repositories)
 
-- 💬 Ask me about **Spark , Azure , Aws ,Power bi,sql, Python**
+- 💬 Ask me about **Spark , Azure , Aws ,Power bi,sql, Python, java**
 
 - 📫 How to reach me **shrip929@gmail.com**
 
